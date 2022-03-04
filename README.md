@@ -6,7 +6,7 @@
 - 👯 &ensp;I’m looking to collaborate with other developers.
 ##
 📫 &ensp;How to reach me :
-<p><a href="www.linkedin.com/in/simarjeet-kaur-518h"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="linkdln" width="35" height="30"/></a>&nbsp; &nbsp;
+<p><a href="https://www.linkedin.com/in/simarjeet-kaur-518h/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="linkdln" width="35" height="30"/></a>&nbsp; &nbsp;
 <a href="mailto:simarjeet518h@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="linkdln" width="35" height="35"/></a></p>
 
 
