@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw">Simarjeet Kaur!</a></h1>
+<h1 align="center">Hi 👋, I'm <a>Simarjeet Kaur!</a></h1>
 
 - 🌱 &ensp;I’m currently learning React 
 - 👯 &ensp;I’m looking to collaborate with other developers.
