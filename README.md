@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm <a>Simarjeet Kaur!</a></h1>
 
-- 🌱 &ensp;I’m currently learning React 
-- 👯 &ensp;I’m looking to collaborate with other developers.
+- 🌱 I love solving problems with unique algorithms, curious, driven and always looking to improve my abilities.
+- 🌱 I am not afraid to step out of my comfort Zone, ready to face new challanges and learn from my failures.
+- 👯 &ensp;Currently, I’m looking to collaborate with other developers.
 ##
 📫 &ensp;How to reach me :
 <p><a href="https://www.linkedin.com/in/simarjeet-kaur-518h/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="linkdln" width="35" height="30"/></a>&nbsp; &nbsp;
@@ -28,6 +29,7 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simarjeet518&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 
 
 
